@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jonathan, an <a href="https://linkedin.com/in/Jonathan">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jonathan, an <a href="https://www.linkedin.com/in/jonathan-pierre-198780203/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
